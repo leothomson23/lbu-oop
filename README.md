@@ -25,10 +25,10 @@
 
 **3 Selection and Iteration**\
 **committed by 26th February**\
-1 Computing a Pay Increase   -- to do\
-2 Rock, Paper, Scissors      -- to do\
-3 String Reverser            -- to do\
-4 Punctuation Marks          -- to do
+1 Computing a Pay Increase   -- completed\
+2 Rock, Paper, Scissors      -- completed\
+3 String Reverser            -- completed\
+4 Punctuation Marks          -- completed
 
 **4 Classes and Objects**\
 **committed by 4th March**\
