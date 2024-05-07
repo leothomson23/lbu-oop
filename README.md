@@ -48,20 +48,20 @@
 
 **7 Inheritance**\
 **committed by 8th April**\
-1 Hospital            -- to do\
-2 Player Statistics   -- to do
+1 Hospital            -- completed\
+2 Player Statistics   -- completed
 
 **8 Polymorphism**\
 **committed by 15th April**\
-1 Firm Vacation           -- to do\
-2 Password                -- to do
+1 Firm Vacation           -- completed\
+2 Password                -- completed
 
 **9 Further Arrays**\
 **committed by 22nd April**\
-1 Histogram             -- to do\
-2 L&L Bank Accounts     -- to do\
-3 Post Codes            -- to do\
-4 Quiz Time             -- to do
+1 Histogram             -- completed\
+2 L&L Bank Accounts     -- completed\
+3 Post Codes            -- completed\
+4 Quiz Time             -- completed
 
 **Turtle Graphics Assignment**\
 **committed by 6th May 10am**\
@@ -72,7 +72,7 @@
 5 Extending OOPGraphics library    -- to do\
 
 ## Notes
-Add your notes and top tips here.
+Made my own notes from lectures and labs on my OneDrive.
 
 ## The small print
 Enter your details above. Keep your portfolio up to date. You will also store your assignment here.
