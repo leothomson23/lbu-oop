@@ -1,0 +1,46 @@
+penwidth 10
+pen 0 119 182
+turnleft 90
+forward 90
+turnleft 90
+forward 75
+backward 25
+turnright 180
+pendown
+forward 100
+turnleft 90
+forward 50
+penup
+forward 30
+turnleft 90
+pendown
+pen 0 180 216
+forward 100
+turnright 90
+forward 50
+backward 50
+turnright 90
+forward 50
+turnleft 90
+forward 50
+backward 50
+turnright 90
+forward 50
+turnright 90
+turnleft 180
+forward 50
+penup
+forward 30
+turnleft 90
+pendown
+pen 114 224 239
+forward 100
+turnright 90 
+forward 50
+turnright 90
+forward 100
+turnright 90
+forward 50
+penup
+penwidth 1
+reset
